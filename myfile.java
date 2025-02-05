@@ -2,6 +2,6 @@ class myfile
 {
     public static void main(String[] args)
     {
-        System.out.println("Welcome to Jenkins server...");
+        System.out.println("Welcome to Jenkins server");
     }
 }
